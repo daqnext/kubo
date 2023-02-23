@@ -5,4 +5,4 @@ linters:
 linters-settings:
   stylecheck:
     dot-import-whitelist:
-      - github.com/bitruss/kubo/test/cli/testutils
+      - github.com/daqnext/kubo/test/cli/testutils
