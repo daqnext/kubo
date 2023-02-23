@@ -339,7 +339,7 @@ jobs:
       - run:
           name: Cloning
           command: |
-            git clone https://github.com/ipfs/ipfs-webui.git
+            git clone https://github.com/daqnext/ipfs-webui.git
             git -C ipfs-webui log -1
       - restore_cache:
           keys:
